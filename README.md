@@ -1,32 +1,19 @@
-# Hi there, I'm Chandra Bhanu P 👋
+# Hi there, I'm Chandra Bhanu Pulluri 👋
 
-**Senior Software Lead Engineer & Full Stack Developer** based in Oshawa, Ontario, Canada 🇨🇦
-
----
-
-### 🚀 About Me
-
-* 💻 **Experience:** 14+ years of experience designing and building scalable web applications.
-* 🛠 **Tech Stack:** Passionate about **React**, **Tailwind CSS**, **TypeScript**, **WordPress**, and **OpenCart**.
-* 🎓 **Education:** 
-  * Master's Degree in Information Technology – *Charles Sturt University*
-  * Bachelor's Degree in Electronics and Computer Engineering
-* 🎵 **Interests:** Musician (pianist, vocalist, and composer) 🎹 | Year-round Cricket player 🏏
+### **Senior Lead Software & AI Systems Engineer**
+📍 **Toronto, ON, Canada** | 📧 [chandrabhanupulluri@gmail.com](mailto:chandrabhanupulluri@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/chandrabhanupulluri) | 🐙 [GitHub](https://github.com/chandrabhanupulluri-cloud)
 
 ---
 
-### 📊 Tech & Tools
+## 🚀 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C / C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of experience** architecting and delivering scalable, enterprise-grade web platforms and AI applications[cite: 1]. 
+
+* 🤖 **AI Integration:** Specialized in building enterprise Gen-AI interfaces, RAG pipelines, multimodal vision workflows, and conversational AI platforms[cite: 1].
+* ⚡ **Performance & Scale:** Spearheaded architecture refactoring resulting in **40% improvements in frontend performance**[cite: 1].
+* 👥 **Technical Leadership:** Proven track record leading cross-functional engineering teams, presenting executive solution briefings, and driving multi-million dollar technology adoption[cite: 1].
+* 🌐 **Global Experience:** Worked with high-impact clients (Allied World Insurance, Citi Bank, Lloyds Bank, British Telecom, BMO, Barnes & Noble) across Canada, Australia, and India[cite: 1].
 
 ---
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chandrabhanupulluri-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/chandrabhanupulluri)
-[![GitHub](https://img.shields.io/badge/GitHub-chandrabhanupulluri--cloud-181717?style=flat-square&logo=github)](https://github.com/chandrabhanupulluri-cloud)
+## 🛠️ Tech Stack & Capabilities
