@@ -74,16 +74,7 @@ I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of exper
 ## 🎓 Education
 
 * **Master of Computer Science** – *Charles Sturt University (Melbourne, Australia)*
-* **Bachelor of Electronics & Computer Engineering** – *JNIT (Hyderabad, India)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrabhanupulluri-cloud&show_icons=true&theme=tokyonight" alt="Chandra's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhanupulluri-cloud&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+* **Bachelor of Electronics & Computer Engineering** – *JNT (Hyderabad, India)*
 
 ---
 
