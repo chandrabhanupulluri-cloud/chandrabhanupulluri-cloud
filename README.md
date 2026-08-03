@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of experience** architecting and delivering scalable, enterprise-grade web platforms and AI applications. 
+I am a **Associate Engineering Manager & Senior Full-Stack Engineer** with **14+ years of experience** architecting and delivering scalable, enterprise-grade web platforms and AI applications. 
 
 * 🤖 **AI Integration:** Specialized in building enterprise Gen-AI interfaces, RAG pipelines, multimodal vision workflows, and conversational AI platforms.
 * ⚡ **Performance & Scale:** Spearheaded architecture refactoring resulting in **40% improvements in frontend performance**.
