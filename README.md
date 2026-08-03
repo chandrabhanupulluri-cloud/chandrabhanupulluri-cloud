@@ -81,8 +81,8 @@ I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of exper
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrabhanupulluri-cloud&show_icons=true&theme=gotham&count_private=true" alt="Chandra's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhanupulluri-cloud&layout=compact&theme=gotham&hide=html" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandrabhanupulluri-cloud&show_icons=true&theme=tokyonight" alt="Chandra's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhanupulluri-cloud&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
