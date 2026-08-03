@@ -38,45 +38,62 @@ I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of exper
 
 ---
 
+### 📊 Tech & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
 ## 💼 Core Experience & Impact
 
 ### **Virtusa** | *Principal Software Engineer* (Toronto, Canada) 
 *(Clients: Allied World, Citi Bank, Lloyds Bank, British Telecom, BMO, Barnes & Noble)*[cite: 1]
 
-* **Enterprise Gen-AI & RAG Platform:** Architected and delivered multimodal vision workflows and conversational AI platforms using React, **improving underwriting efficiency by 35%** for Allied World Insurance[cite: 1].
-* **Claims Management & Mobile Solutions:** Built custom React Claims Management Portals and engineered an on-device React Native enterprise Gen-AI application from architecture to App Store deployment[cite: 1].
-* **Performance & Cloud Architecture:** Optimized cloud-native AWS infrastructures and implemented Datadog observability to achieve a **40% increase in frontend performance**[cite: 1].
-* **SRE Incident Management:** Designed BMO's SRE Incident Management Dashboard for Retail Banking, driving real-time alerting and operational visibility for executive leadership[cite: 1].
+* **Enterprise Gen-AI & RAG Platform:** Architected and delivered multimodal vision workflows and conversational AI platforms using React, **improving underwriting efficiency by 35%** for Allied World Insurance.
+* **Claims Management & Mobile Solutions:** Built custom React Claims Management Portals and engineered an on-device React Native enterprise Gen-AI application from architecture to App Store deployment.
+* **Performance & Cloud Architecture:** Optimized cloud-native AWS infrastructures and implemented Datadog observability to achieve a **40% increase in frontend performance**.
+* **SRE Incident Management:** Designed BMO's SRE Incident Management Dashboard for Retail Banking, driving real-time alerting and operational visibility for executive leadership.
 
-### **Varkasa Inc.** | *Consultant* (Client: AMC-TX.com)[cite: 1]
-* Full-stack development of OpenCart/PHP/MySQL e-commerce solutions, payment gateway integration, and checkout flow optimization[cite: 1].
+### **Varkasa Inc.** | *Consultant* (Client: AMC-TX.com)
+* Full-stack development of OpenCart/PHP/MySQL e-commerce solutions, payment gateway integration, and checkout flow optimization.
 
-### **Synch Solutions & AUREC** | *Senior Web Developer & Consultant* (Melbourne, Australia)[cite: 1]
+### **Synch Solutions & AUREC** | *Senior Web Developer & Consultant* (Melbourne, Australia)
 * Re-architected legacy frontend systems for performance and accessibility (GE Smallworld Network Viewer+) across Australian energy/utility clients[cite: 1].
 
 ---
 
 ## 🏆 Key Achievements & Certifications
 
-* 🏅 **Virtusa Innovation Award:** Recognized for driving Gen-AI implementation and insurance portal efficiency[cite: 1].
-* 🏆 **Dream Team Award:** Recognized for delivery excellence in digital modernization for British Telecom[cite: 1].
-* 📜 **AWS Certified Cloud Practitioner**[cite: 1]
-* 📜 **Certified ScrumMaster (CSM)** & **Certified Product Owner (CSPO)**[cite: 1]
+* 🏅 **Virtusa Innovation Award:** Recognized for driving Gen-AI implementation and insurance portal efficiency.
+* 🏆 **Dream Team Award:** Recognized for delivery excellence in digital modernization for British Telecom.
+* 📜 **AWS Certified Cloud Practitioner**
+* 📜 **Certified ScrumMaster (CSM)** & **Certified Product Owner (CSPO)**
 
 ---
 
 ## 🎓 Education
 
-* **Master of Computer Science** – *Charles Sturt University (Melbourne, Australia)*[cite: 1]
-* **Bachelor of Electronics & Computer Engineering** – *JNIT (Hyderabad, India)*[cite: 1]
+* **Master of Computer Science** – *Charles Sturt University (Melbourne, Australia)*
+* **Bachelor of Electronics & Computer Engineering** – *JNIT (Hyderabad, India)*
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrabhanupulluri-cloud&show_icons=true&theme=gotham" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhanupulluri-cloud&layout=compact&theme=gotham" alt="Top Languages" height="160" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandrabhanupulluri-cloud&show_icons=true&theme=gotham&count_private=true" alt="Chandra's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrabhanupulluri-cloud&layout=compact&theme=gotham&hide=html" alt="Top Languages" width="48%" />
 </p>
 
 ---
