@@ -1,6 +1,6 @@
 # Hi there, I'm Chandra Bhanu Pulluri 👋
 
-### **Senior Lead Software & AI Systems Engineer**
+### **Associate Engineering Manager & AI Systems Engineer**
 📍 **Toronto, ON, Canada** | 📧 [chandrabhanupulluri@gmail.com](mailto:chandrabhanupulluri@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/chandrabhanupulluri) | 🐙 [GitHub](https://github.com/chandrabhanupulluri-cloud)
 
 ---
