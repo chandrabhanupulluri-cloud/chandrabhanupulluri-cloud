@@ -16,24 +16,13 @@ I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of exper
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
-┌──────────────────────────────┬────────────────────────────────────────────────────────┐
-│ Domain                       │ Core Technologies                                      │
-├──────────────────────────────┼────────────────────────────────────────────────────────┤
-│ Front-End Architecture       │ React, TypeScript, JavaScript (ES6+), Next.js, Redux,  │
-│                              │ HTML5/CSS3/SASS, Tailwind CSS, Component Libraries     │
-├──────────────────────────────┼────────────────────────────────────────────────────────┤
-│ Back-End & Cloud             │ Node.js, Express.js, Python, REST APIs, Redis, MongoDB │
-│                              │ AWS (EC2, Lambda, S3, API Gateway, CloudFront, IAM)    │
-├──────────────────────────────┼────────────────────────────────────────────────────────┤
-│ Generative AI & ML           │ Gen-AI Platforms, RAG Architecture, LLM Workflows,      │
-│                              │ Conversational AI, Chat/Document Q&A, Multimodal Vision│
-├──────────────────────────────┼────────────────────────────────────────────────────────┤
-│ Mobile & Testing             │ React Native (Expo Go), Jest, React Testing Library    │
-├──────────────────────────────┼────────────────────────────────────────────────────────┤
-│ Engineering Practices        │ CI/CD (GitHub Actions), Datadog Observability, TDD,    │
-│                              │ Microservices, WCAG Accessibility, i18n, SAFe/Agile    │
-└──────────────────────────────┴────────────────────────────────────────────────────────┘
+| Domain | Core Technologies |
+| :--- | :--- |
+| **Front-End Architecture** | React, TypeScript, JavaScript (ES6+), Next.js, Redux, HTML5/CSS3/SASS, Tailwind CSS, Component Libraries |
+| **Back-End & Cloud** | Node.js, Express.js, Python, REST APIs, Redis, MongoDB, AWS (EC2, Lambda, S3, API Gateway, CloudFront, IAM) |
+| **Generative AI & ML** | Gen-AI Platforms, RAG Architecture, LLM Workflows, Conversational AI, Chat/Document Q&A, Multimodal Vision |
+| **Mobile & Testing** | React Native (Expo Go), Jest, React Testing Library |
+| **Engineering Practices** | CI/CD (GitHub Actions), Datadog Observability, TDD, Microservices, WCAG Accessibility, i18n, SAFe/Agile |
 
 
 ---
