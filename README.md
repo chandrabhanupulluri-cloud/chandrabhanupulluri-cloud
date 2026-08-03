@@ -7,12 +7,12 @@
 
 ## 🚀 About Me
 
-I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of experience** architecting and delivering scalable, enterprise-grade web platforms and AI applications[cite: 1]. 
+I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of experience** architecting and delivering scalable, enterprise-grade web platforms and AI applications. 
 
-* 🤖 **AI Integration:** Specialized in building enterprise Gen-AI interfaces, RAG pipelines, multimodal vision workflows, and conversational AI platforms[cite: 1].
-* ⚡ **Performance & Scale:** Spearheaded architecture refactoring resulting in **40% improvements in frontend performance**[cite: 1].
-* 👥 **Technical Leadership:** Proven track record leading cross-functional engineering teams, presenting executive solution briefings, and driving multi-million dollar technology adoption[cite: 1].
-* 🌐 **Global Experience:** Worked with high-impact clients (Allied World Insurance, Citi Bank, Lloyds Bank, British Telecom, BMO, Barnes & Noble) across Canada, Australia, and India[cite: 1].
+* 🤖 **AI Integration:** Specialized in building enterprise Gen-AI interfaces, RAG pipelines, multimodal vision workflows, and conversational AI platforms.
+* ⚡ **Performance & Scale:** Spearheaded architecture refactoring resulting in **40% improvements in frontend performance**.
+* 👥 **Technical Leadership:** Proven track record leading cross-functional engineering teams, presenting executive solution briefings, and driving multi-million dollar technology adoption.
+* 🌐 **Global Experience:** Worked with high-impact clients (Allied World Insurance, Citi Bank, Lloyds Bank, British Telecom, BMO, Barnes & Noble) across Canada, Australia, and India.
 
 ---
 
@@ -47,7 +47,7 @@ I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of exper
 ## 💼 Core Experience & Impact
 
 ### **Virtusa** | *Principal Software Engineer* (Toronto, Canada) 
-*(Clients: Allied World, Citi Bank, Lloyds Bank, British Telecom, BMO, Barnes & Noble)*[cite: 1]
+*(Clients: Allied World, Citi Bank, Lloyds Bank, British Telecom, BMO, Barnes & Noble)*
 
 * **Enterprise Gen-AI & RAG Platform:** Architected and delivered multimodal vision workflows and conversational AI platforms using React, **improving underwriting efficiency by 35%** for Allied World Insurance.
 * **Claims Management & Mobile Solutions:** Built custom React Claims Management Portals and engineered an on-device React Native enterprise Gen-AI application from architecture to App Store deployment.
@@ -58,7 +58,7 @@ I am a **Senior Lead Front-End & Full-Stack Engineer** with **14+ years of exper
 * Full-stack development of OpenCart/PHP/MySQL e-commerce solutions, payment gateway integration, and checkout flow optimization.
 
 ### **Synch Solutions & AUREC** | *Senior Web Developer & Consultant* (Melbourne, Australia)
-* Re-architected legacy frontend systems for performance and accessibility (GE Smallworld Network Viewer+) across Australian energy/utility clients[cite: 1].
+* Re-architected legacy frontend systems for performance and accessibility (GE Smallworld Network Viewer+) across Australian energy/utility clients.
 
 ---
 
